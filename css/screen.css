@@ -2,19 +2,11 @@ body{
   background-color: #0d1117;
   text-align: center;
   font-family: "Lucida Console", "New Roman", monospace;
+    font-size: 25px;
+
 }
 
 h1{
-  font-size: 50px;
-  color:white;
-}
-
-label{
-  font-size: 50px;
-  color:white;
-}
-
-div{
   font-size: 50px;
   color:white;
 }
